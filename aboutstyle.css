@@ -71,9 +71,6 @@ a{
     height:40px;
     color:red;
 }
-.pic{
-    padding:2px;
-}
 #cv{
     color:blue;
     font-family:"Arial";
@@ -86,4 +83,16 @@ a{
     font-family:Utopia;
     font-style:italic;
     font-weight:bold;
+}
+#head{
+    margin-left:20px;
+    font-family:Times New Roman;
+    font-style:italic;
+    color:#0080ff;
+}
+#about{
+    margin-left:20px;
+}
+li a:active{
+    background-color:#66cc00;
 }
