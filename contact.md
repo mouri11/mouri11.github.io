@@ -9,7 +9,7 @@ title: Contact Passions
     <p class="intro">Happy as I am to have opened this platform, happier shall I be with you sharing your mind with me too.</p>
     <p>If you have questions about the blog feel free to <a href="mailto:rohit.das950@gmail.com">email me</a>. Enjoy!</p>
   </div>
-  <form action="http://formspree.io/rohit.das950@gmail.com" method="POST">
+  <form action="https://formspree.io/rohit.das950@gmail.com" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
