@@ -1,0 +1,30 @@
+title: Passions
+description: A Hobby for The Mind
+
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: mouri11
+   twitter: rdas95
+   facebook: rohit.das.1995
+   instagram: rohit__dash__
+   linkedin: rohit-das-10895
+   email: rashik.nandalover@gmail.com
+
+google_analytics: "UA-58263416-1"
