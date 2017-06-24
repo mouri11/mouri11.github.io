@@ -7,7 +7,7 @@ title: Contact Passions
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">Happy as I am to have opened this platform, happier shall I be with you sharing your mind with me too.</p>
-    <p>If you have questions about the blog feel free to <a href="mailto:rashik.nandalover@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p>If you have questions about the blog feel free to <a href="mailto:rashik.nandalover@gmail.com">email me</a>. Enjoy!</p>
   </div>
   <form action="http://formspree.io/rashik.nandalover@mail.com" method="POST">
     <label for="name">Name</label>
