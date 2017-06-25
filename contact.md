@@ -9,13 +9,23 @@ title: Contact Passions
     <p class="intro">Happy as I am to have opened this platform, happier shall I be with you sharing your mind with me too.</p>
     <p>If you have questions about the blog feel free to <a href="mailto:rashik.nandalover@gmail.com">email me</a>. Enjoy!</p>
   </div>
-  <!--<form action="https://formspree.io/rohit.das950@gmail.com" method="POST">
+  <form id="gform" action="https://script.google.com/macros/s/AKfycbxD_cDGk1Ik1IdkYkW09ox-VLJPAhpncp7lqS08OlshMa7hWHH7/exec" method="POST">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
-    <input type="email" id="email" name="_replyto" class="full-width"><br>
+    <input type="email" id="email" name="email" class="full-width"><br>
     <label for="message">Message</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
     <input type="submit" value="Send" class="button">
-  </form>-->
+  </form>
+
+  <!-- Customise the Thankyou Message People See when they submit the form: -->
+  <div style="display:none;" id="thankyou_message">
+    <h2><em>Thanks</em> for contacting me!
+      I shall get back to you soon!</h2>
+  </div>
+
+  <!-- Submit the Form to Google Using "AJAX"
+  <script data-cfasync="false" type="text/javascript"
+  src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>-->
 </div>

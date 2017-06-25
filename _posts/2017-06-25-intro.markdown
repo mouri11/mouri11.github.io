@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bonjour et Bienvenue"
+date:   2017-06-25
+author: Rohit Das
+---
+
+<p class="intro"><span class="dropcap">H</span>ello everyone!! I am very excited to tell you that after long days of laziness and resulting self-loathing, I finally managed to set up this blog.</p>
+
+In case we are meeting for the first time, my name is Rohit Das. I am a CSE undergrad, very under-qualified, lazy and - oh, sorry. Self-loathing mode of mine.
+
+This blog was started with the intention of bringing people together, giving them a platform to express themselves or their talents in any way they want. Stories will be posted here. You can send me your stories at my mail mentioned on my website.
+
+Looking forward to you all. 
