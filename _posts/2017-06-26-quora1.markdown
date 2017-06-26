@@ -7,9 +7,13 @@ author: Franklin Veaux
 
 <p class="intro"><span class="dropcap">W</span>hy so many people are scared to death of their feelings.</p>
 
+<img src="{{ 'https://i.ytimg.com/vi/p97kSsORsDE/maxresdefault.jpg' | prepend: site.baseurl }}" alt="">
+
 “Men and women shouldn't spend time together because they might get feelings.” “I don't want my partner talking to an ex, what if they still have feelings?” “Oh, no, you shouldn't do friends with benefits, because someone will get feelings.” “I work in an office, and I'm afraid I'm getting feelings for my coworker.”
 
 Oh no! Feelings! Someone call the National Guard! Feelings!
+
+<img src="{{ 'https://s-media-cache-ak0.pinimg.com/originals/26/e4/46/26e446488877d0225b0280680c33c936.jpg' | prepend: site.baseurl }}" alt="">
 
 I totally get how powerful our emotions feel. They can blow us away. I know what it's like to be caught in an emotional maelstrom and have that irrational part of me be OMG absolutely convinced that OMG this is the most important thing ever and OMG OMG OMG.
 
