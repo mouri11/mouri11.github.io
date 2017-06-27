@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Fav answers from Quora: What misconception about your occupation would you like to clear up?"
+date:   2017-06-26
+author: Richard Muller
+link: https://www.quora.com/profile/Richard-Muller-3
+---
+
+<p class="intro"><span class="dropcap">I</span>'m a physicist.</p>
+
+One day I got a phone call from an undergraduate. She explained that as an assignment in a sociology course she was required to follow a scientist around for a day and document how he/she spent the day. “I’m far too busy to give you that much time” I said.
+
+“No—” she replied, “You won’t even notice I’m there. I’ll just watch and follow you around.” OK—it sounded a bit intriguing.
+
+The scheduled morning she arrived in my office at 9am. She sat down in a corner, and I got to work. Every now and then I looked up and caught her looking at me; she quickly looked away, and scribbled in her notebook. Suddenly I felt like a mountain gorilla being studied by Dian Fossey.
+
+At 5 pm she told me she was leaving. I asked her if she found anything surprising. “My god yes!” She responded. “Your day is totally different from what I expected.” I asked for details and she examined her notes.
+
+She said, “You spent 60% of your time talking to other people! You did it on the phone, then you visited several other physicists in their offices. You had lunch with several graduate students. Even in your lab you were working with your graduate students. Several people came to your office.”
+
+“What did you expect?” I asked her.
+
+“I thought scientists worked alone. I thought they sat in front of computers all day, or in their labs wearing white coats and working with test tubes.”
+
+<img src="{{ 'https://nothinginbiology.files.wordpress.com/2015/10/doc.jpg' | prepend: site.baseurl }}" alt="">
+
+“That’s the scientist of the movies” I said. “Science is a very social profession. You can save weeks in the lab by a quick conversation with someone else. Two people talking are often much more than twice as effective as two people working alone.”
+
+“I never knew that” she said.
+
+It’s odd that people avoid going into science because of the impression that it is for people who like to work alone. That may be true for some people, but in my experience virtually all effective scientists spend much of their time with other people. Maybe the misimpression arises because of the high school science nerd who doesn’t yet have social skills. But social skills are essential to scientific success. Some nerds learn them only in graduate school. (And the ones who don’t often drop out of science.)
+
+Indeed, the interaction with other people is what makes “coming to work” so much fun.
+
+Image Courtesy: Google

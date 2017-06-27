@@ -3,6 +3,7 @@ layout: post
 title:  "Fav answers from Quora: What's something you don't get? "
 date:   2017-06-26
 author: Franklin Veaux
+link: https://www.quora.com/profile/Franklin-Veaux
 ---
 
 <p class="intro"><span class="dropcap">W</span>hy so many people are scared to death of their feelings.</p>
