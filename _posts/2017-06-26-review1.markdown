@@ -3,6 +3,7 @@ layout: post
 title:  "Review: Redmi 3S Prime"
 date:   2017-06-26
 author: Rohit Das
+link: https://www.facebook.com/rohit.das.1995
 ---
 
 <p class="intro"><span class="dropcap">R</span>eviews are something people like to be personal so that they could help themselves choose a product to suit their want or need (mostly want).</p>

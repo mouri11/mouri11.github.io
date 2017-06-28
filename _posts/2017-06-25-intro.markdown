@@ -3,6 +3,7 @@ layout: post
 title:  "Bonjour et Bienvenue"
 date:   2017-06-25
 author: Rohit Das
+link: https://www.facebook.com/rohit.das.1995
 ---
 
 <p class="intro"><span class="dropcap">H</span>ello everyone!! I am very excited to tell you that after long days of laziness and resulting self-loathing, I finally managed to set up this blog.</p>
