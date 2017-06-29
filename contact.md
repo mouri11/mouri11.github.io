@@ -6,7 +6,7 @@ title: Contact Passions
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Happy as I am to have opened this platform, happier shall I be with you sharing your mind with me too.</p>
+    <p class="intro">Happy as I am to have opened this platform, happier shall I be with you sharing your thoughts on it.</p>
     <p>If you have questions about the blog feel free to <a href="mailto:rashik.nandalover@gmail.com">email me</a>. Enjoy!</p>
   </div>
   <form id="gform" action="https://script.google.com/macros/s/AKfycbxD_cDGk1Ik1IdkYkW09ox-VLJPAhpncp7lqS08OlshMa7hWHH7/exec" method="POST">
@@ -21,8 +21,8 @@ title: Contact Passions
 
   <!-- Customise the Thankyou Message People See when they submit the form: -->
   <div style="display:none;" id="thankyou_message">
-    <h2><em>Thanks</em> for contacting me!
-      I shall get back to you soon!</h2>
+    <h2><em>Thanks</em> for contacting!
+      You shall be got back to soon!</h2>
   </div>
 
   <!-- Submit the Form to Google Using "AJAX"
