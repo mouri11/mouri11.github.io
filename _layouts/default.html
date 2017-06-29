@@ -8,18 +8,23 @@
 
 <body>
 
-   {% include header.html %}
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLF8HDG"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
 
-   <div class="content">
+    {% include header.html %}
+
+    <div class="content">
       <div class="container">
-         {{ content }}
-         <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+        {{ content }}
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
       </div>
-   </div><!-- end .content -->
+    </div><!-- end .content -->
 
-   {% include footer.html %}
-   {% include scripts.html %}
+    {% include footer.html %}
+    {% include scripts.html %}
 
-</body>
+  </body>
 
-</html>
+  </html>
