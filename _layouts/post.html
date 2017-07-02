@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 <div class="post">
   {% if page.image %}
@@ -12,6 +13,7 @@ layout: default
 
   {{ content }}
 
+  {% include comments.html %}
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %}
