@@ -16,6 +16,7 @@ title: Contact Passions
     <input type="email" id="email" name="email" class="full-width"><br>
     <label for="message">Message</label>
     <textarea name="message" id="message" cols="30" rows="10" class="full-width"></textarea><br>
+    <input type="hidden" name="color" value="blue">
     <input type="submit" value="Send" class="button">
   </form>
 

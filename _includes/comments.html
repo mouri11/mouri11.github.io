@@ -1,10 +1,18 @@
-<form method="POST" action="https://api.staticman.net/v2/entry/mouri11/mouri11.github.io/master">
-  <input name="options[redirect]" type="hidden" value="https://mouri11.github.io">
-  <!-- e.g. "2016-01-02-this-is-a-post" -->
-  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-  <label><input name="fields[name]" type="text">Name</label>
-  <label><input name="fields[email]" type="email">E-mail</label>
-  <label><textarea name="fields[message]"></textarea>Message</label>
-
-  <button type="submit">Go!</button>
+<div>
+<form id="gform" action="https://script.google.com/macros/s/AKfycbxD_cDGk1Ik1IdkYkW09ox-VLJPAhpncp7lqS08OlshMa7hWHH7/exec" method="POST">
+<label><h3><strong>Leave a Comment</strong></h3></label>
+  <label for="name">Name</label>
+  <input type="text" id="name" name="name" class="med-width"><br>
+  <label for="email">Email Address</label>
+  <input type="email" id="email" name="email" class="med-width"><br>
+  <label for="message">Comment</label>
+  <textarea name="message" id="message" cols="30" rows="10" class="med-width"></textarea><br>
+  <input type="hidden" name="color" value="red">
+  <input type="submit" value="Go!" class="button">
 </form>
+
+<!-- Customise the Thankyou Message People See when they submit the form: -->
+<div style="display:none;" id="thankyou_message">
+  <h2>Your comments shall be up soon after review!</h2>
+</div>
+</div>
