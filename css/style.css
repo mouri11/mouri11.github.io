@@ -683,7 +683,8 @@ body {
   overflow-x: hidden;
   margin: 0; }
   body p, body ul {
-    margin: 0 0 2rem; }
+    margin: 0 0 2rem;
+  }
 
 ::-moz-selection {
   background: seagreen;
@@ -1010,6 +1011,9 @@ POST LIST STYLING
     font-size: .8em; }
   .posts li h3 {
     margin: 0 0 .5em; }
+    .posts li p{
+      text-align:justify;
+    }
 
 @media only screen and (min-width: 800px) {
   /***************
@@ -1103,9 +1107,11 @@ MENU STYLING
 POST STYLING
 ***************/
   .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post p, .post ul, .post ol, .post dl, .post .pageTitle {
-    width: 75%;
+    width: 95%;
     float: none;
-    margin: 0 auto 2rem; }
+    margin: 0 auto 2rem;
+    text-align:justify
+}
   .post h1, .post .h1, .post h2, .post .h2, .post h3, .post .h3, .post h4, .post .h4, .post h5, .post .h5, .post h6, .post .h6 {
     margin: 1rem auto; }
   .post .pageTitle {
