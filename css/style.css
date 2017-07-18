@@ -754,7 +754,7 @@ MENU STYLING
   float: right;
   line-height: 2em;
   margin-top: .5em;
-  background-color: seagreen;
+  background-color:#175bd1 ;
   border-radius: 4px;
   padding: 0 .5em;
   color: white;
@@ -764,7 +764,7 @@ MENU STYLING
   transition: all 0.2s ease-in-out; }
   .nav-toggle:hover {
     color: white;
-    background-color: #21653f; }
+    background-color: #175bd1; }
 
 /***************
 LIST STYLING
