@@ -10,7 +10,7 @@ link: https://www.facebook.com/rohit.das.1995
 
 Let me elucidate. It was the summer of 2014, in April. My higher secondary board exams had just ended, and so had the engineering entrance exams for which I had appeared. My family hadn't been out on a trip for a year now, and boy do we love to travel! So it had become kind of stagnant before we decided we needed a well-deserved break. Also, it was a great way to test out our new digital camera.
 
-We had booked a train leaving for <strong>New Jalpaiguri Station</strong> on 23rd April. Reaching at 5am the next day, it took us as little as 4 hours to reach <strong>Gangtok, capital of Sikkim</strong>. We were also accompanied by a friend of my dad's, who had also come with his family. Most unadventurous and boring people. Anyway, Gangtok is a very nice place to stay - very well-maintained and clean.
+We had booked a train leaving for **New Jalpaiguri Station** on 23rd April. Reaching at 5am the next day, it took us as little as 4 hours to reach **Gangtok, capital of Sikkim**. We were also accompanied by a friend of my dad's, who had also come with his family. Most unadventurous and boring people. Anyway, Gangtok is a very nice place to stay - very well-maintained and clean.
 
 Gangtok from the Ropeway Car
 <img src="{{ '/assets/img/sikkim/sikkim12.JPG' }}" alt="">
@@ -18,7 +18,7 @@ Gangtok from the Ropeway Car
 A closer look at a cafe below
 <img src="{{ '/assets/img/sikkim/sikkim35.JPG' }}" alt="">
 
-Since Sikkim has a huge repertoire of natural beauty, so much that it couldn't be covered in the time we had alloted ourselves, we only kept to the southern part of the state. <strong>Rumtek monastery, Do-Drul Chorten (another beautiful and serene monastery), Botanical Garden</strong> were covered on 25th. The best part of the trip was <strong>Nathu La</strong>, a mountain pass from India to China, heavily guarded by the army and hence required prior obtaining of permits. Here is where the adventure unfolded for us.
+Since Sikkim has a huge repertoire of natural beauty, so much that it couldn't be covered in the time we had alloted ourselves, we only kept to the southern part of the state. **Rumtek monastery, Do-Drul Chorten (another beautiful and serene monastery), Botanical Garden** were covered on 25th. The best part of the trip was **Nathu La**, a mountain pass from India to China, heavily guarded by the army and hence required prior obtaining of permits. Here is where the adventure unfolded for us.
 
 Rumtek Monastery<br>
 1
@@ -44,7 +44,7 @@ Botanical Garden<br>
 3
 <img src="{{ '/assets/img/sikkim/sikkim19.jpg' }}" alt="">
 
-The trip to Nathu La on 26th also included seeing the <strong>Tsomgo Lake</strong> and visiting the hallowed <strong>Baba Harbhajan Mandir</strong>, but little did we know what was in store for us. The driver did though. He knew the weather over the winding mountain path could change anytime, and get really worse. So we didn't get to stop at the lake, which comes on the way to Nathu La. Thankfully I did manage to take a picture of a yak standing peacefully in the snowfall!!
+The trip to Nathu La on 26th also included seeing the **Tsomgo Lake** and visiting the hallowed **Baba Harbhajan Mandir**, but little did we know what was in store for us. The driver did though. He knew the weather over the winding mountain path could change anytime, and get really worse. So we didn't get to stop at the lake, which comes on the way to Nathu La. Thankfully I did manage to take a picture of a yak standing peacefully in the snowfall!!
 
 <img src="{{ '/assets/img/sikkim/sikkim36.JPG' }}" alt="">
 
@@ -70,9 +70,9 @@ It was almost 6 in the evening when we safely arrived in Tibet Road (where we we
 My dad, his inner child unfettered.
 <img src="{{ '/assets/img/sikkim/sikkim37.JPG' }}" alt="">
 
-On 27th, we left for <strong>Pelling</strong>. It was like a sweet, small village on the top of the world. It was mostly remote, and seemed more remote because of the clouds around us. It was heaven...ly.
+On 27th, we left for **Pelling**. It was like a sweet, small village on the top of the world. It was mostly remote, and seemed more remote because of the clouds around us. It was heaven...ly.
 
-It didn't remain heavenly long enough, for it started to rain heavily in the evening, and we had to be stuck in our rooms which, although warm and comfortable, wasn't what we had in mind. The overall mood was ruined, and we spent the night reading, eating, sleeping. Later in the night, it dawned upon my dad that the skies might be cleared the next day, and we might get to see the Himalayan Range, and especially <strong>Mt. Kanchenjunga</strong> clearly from our room.
+It didn't remain heavenly long enough, for it started to rain heavily in the evening, and we had to be stuck in our rooms which, although warm and comfortable, wasn't what we had in mind. The overall mood was ruined, and we spent the night reading, eating, sleeping. Later in the night, it dawned upon my dad that the skies might be cleared the next day, and we might get to see the Himalayan Range, and especially **Mt. Kanchenjunga** clearly from our room.
 
 Lightning outside in the mountains that night
 <img src="{{ '/assets/img/sikkim/sikkim41.JPG' }}" alt="">
@@ -101,7 +101,7 @@ Another reason I loved Pelling was because flowers all around were in full bloom
 
 <img src="{{ '/assets/img/sikkim/sikkim30.jpg' }}" alt="">
 
-We went for sight-seeing the next day, on 29th. We visited some famous places like <strong>Kheciperi Lake</strong>, <strong> Kanchenjunga Falls</strong>, and the second highest hanging bridge in all of Asia, <strong>Singshore Bridge</strong>. It rained again after we came back, though not as hard as the night before.
+We went for sight-seeing the next day, on 29th. We visited some famous places like **Kheciperi Lake**, **Kanchenjunga Falls**, and the second highest hanging bridge in all of Asia, **Singshore Bridge**. It rained again after we came back, though not as hard as the night before.
 
 Khechiperi Lake<br>
 1
@@ -131,7 +131,7 @@ Singshore Bridge ( span: 198m)<br>
 <img src="{{ '/assets/img/sikkim/sikkim27.jpg' }}" alt="">
 
 
-A change of plans took place. While our unadventurous company decided to go down to Siliguri on 30th and stay before we took our train home (they never went out anywhere, so never enjoyed too), we headed for Bengali's all-weather spot, <strong>Darjeeling</strong>. It was my first time on the toy train there. We boarded it from Darjeeling. It went up to <strong>Ghum</strong> and back, via the famous <strong>Batasia Loop</strong>, where a war memorial had been erected. We came back home on 2nd May, our minds refreshed, our souls rejuvenated.
+A change of plans took place. While our unadventurous company decided to go down to Siliguri on 30th and stay before we took our train home (they never went out anywhere, so never enjoyed too), we headed for Bengali's all-weather spot, **Darjeeling**. It was my first time on the toy train there. We boarded it from Darjeeling. It went up to **Ghum** and back, via the famous **Batasia Loop**, where a war memorial had been erected. We came back home on 2nd May, our minds refreshed, our souls rejuvenated.
 
 Darjeeling<br>
 1

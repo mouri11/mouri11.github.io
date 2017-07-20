@@ -128,7 +128,8 @@ legend{
   padding:0;
   white-space:normal
 }
-progress{
+progress{..
+  
   display:inline-block;
   vertical-align:baseline
 }
