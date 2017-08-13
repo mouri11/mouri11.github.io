@@ -2,3 +2,4 @@ markdown: kramdown
 highlighter: rouge
 
 url: https://mouri11.github.io
+baseurl: 

@@ -1,5 +1,5 @@
 ---
-layout: portfolio_entry
+layout: project_entry
 title: First Project
 image: /img/folder-name/image-name.png
 ---
