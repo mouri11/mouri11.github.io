@@ -6,9 +6,10 @@
 body {
   margin: 0;
   padding:50px;
-  font:16px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#333;
+  font:17px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#283655;
   font-weight:300;
+  background-color: #D0E1F9;
 }
 
 .wrapper {
@@ -33,7 +34,7 @@ img {
 /* Typography */
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#1E1F26;
   margin:0 0 20px;
 }
 
@@ -70,13 +71,13 @@ h6 a:hover {
 }
 
 a {
-  color:#6491b2;
+  color:#4D648D;
   text-decoration:none;
 }
 
 a:hover,
 a:active {
-  color:#4f738d;
+  color:#1E1F26;
   text-decoration: underline;
 }
 
@@ -213,7 +214,7 @@ nav ul {
   list-style:none;
   height:24px;
   padding:0;
-  background: #fff;
+  background: #E6DF44;
   border-radius:5px;
   border:1px solid #e5e5e5;
   width:272px;
@@ -233,7 +234,7 @@ nav li:last-child {
 
 nav li a {
   font-size:11px;
-  color:#999;
+  color:#1E1F26;
   display:block;
   text-align:center;
   line-height:24px;
@@ -251,7 +252,7 @@ nav li:last-child a {
 
 nav li a:hover,
 nav li a:active {
-  color:#444;
+  color:#FFF;
   font-weight: bold;
   text-decoration: none;
 }
@@ -259,7 +260,7 @@ nav li a:active {
 nav li a:active,
 nav li a.active,
 nav li a.active:hover {
-  background: #f8f8f8;
+  background: #1995AD;
 }
 
 
