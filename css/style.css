@@ -232,17 +232,46 @@ nav li:last-child {
   width:68px;
 }
 
-nav li a {
-  font-size:11px;
+.dropdown {
+  position: relative;
+  display: block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 120px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding: 12px 16px;
+  text-decoration: none;
   color:#1E1F26;
   display:block;
   text-align:center;
   line-height:24px;
   height:24px;
-  font-size:13px;
 }
 
-nav li:first-child a {
+.dropdown-content a:hover {background-color: #D0E1F9}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+nav li a {
+  font-size:13px;
+  color:#1E1F26;
+  display:block;
+  text-align:center;
+  line-height:24px;
+  height:24px;
+}
+
+nav li:first-child {
   border-radius:5px 0 0 5px;
 }
 
@@ -257,7 +286,6 @@ nav li a:active {
   text-decoration: none;
 }
 
-nav li a:active,
 nav li a.active,
 nav li a.active:hover {
   background: #1995AD;
