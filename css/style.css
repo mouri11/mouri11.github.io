@@ -13,8 +13,8 @@ body {
 }
 
 .wrapper {
-  width:950px;
-  margin:0 auto;
+  width:1250px;
+  margin:0;
   *zoom: 1;
 }
 .wrapper:before,
@@ -29,7 +29,6 @@ body {
 img {
   max-width:100%;
 }
-
 
 /* Typography */
 
@@ -98,7 +97,7 @@ strong {
 }
 
 section {
-  width:600px;
+  width:900px;
   float:right;
   padding-bottom:50px;
   min-height: 400px;
@@ -461,7 +460,7 @@ img.pull-left {
 @media print, screen and (max-width: 1050px) {
   
   div.wrapper {
-    width:600px;
+    width:800px;
   }
   
   header, section, footer {
@@ -732,4 +731,28 @@ form {
     float: none;
     width: 100%;
   }
+}
+
+div.overlay {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-rows: repeat(2, 250px);
+  text-align: center;
+}
+
+.overlay div {
+  padding: 5px;
+}
+
+.overlay img:hover {
+  border-width: 2px;
+  border-color: #283655;
+  border-style: solid;
+}
+
+div.overlay img {
+  height: fill;
+}
+div.overlay p {
+  padding-top: 100px;
 }
